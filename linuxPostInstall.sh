@@ -18,7 +18,7 @@ APPS_PATH="$HOME/Downloads/apps"
 
 APT_APPS=(
 	git
-  nodejs
+  	nodejs
 	openjdk-14-jre-headless
 	gimp
 	vlc
@@ -27,9 +27,9 @@ APT_APPS=(
 	notepadqq
 	snapd
 	flatpak
-  virtualbox
+  	virtualbox
 	filezilla
-  flameshot
+  	flameshot
 	vim
 	neofetch
 	gparted
